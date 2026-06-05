@@ -1,0 +1,101 @@
+{
+  "year": 2026,
+  "religious_days": [
+    {
+      "hicri": { "day": 26, "month": "Receb", "year": 1447 },
+      "miladi": { "day": 15, "month": "Ocak", "year": 2026, "weekday": "Perşembe" },
+      "name": "Miraç Kandili",
+      "description": "Miraç Kandili, Peygamber Efendimiz Hz. Muhammed'in (s.a.v.) Mescid-i Haram’dan Mescid-i Aksa’ya, oradan da semaya yükseldiği gecedir. Bu gece, namazın farz kılındığı ve ilahi rahmetin tecelli ettiği mübarek bir gecedir."
+    },
+    {
+      "hicri": { "day": 1, "month": "Şaban", "year": 1447 },
+      "miladi": { "day": 20, "month": "Ocak", "year": 2026, "weekday": "Salı" },
+      "name": "Şaban Ayı Başlangıcı",
+      "description": "Şaban ayı, Ramazan ayına hazırlık ayıdır. Peygamber Efendimiz bu ayda ibadetlerini artırmış, müminleri Ramazan’a manevi olarak hazırlamıştır."
+    },
+    {
+      "hicri": { "day": 14, "month": "Şaban", "year": 1447 },
+      "miladi": { "day": 2, "month": "Şubat", "year": 2026, "weekday": "Pazartesi" },
+      "name": "Berat Kandili",
+      "description": "Berat Kandili, günahların affı, rızıkların takdiri ve kulların ilahi rahmete mazhar olması ümidiyle ihya edilen mübarek bir gecedir."
+    },
+    {
+      "hicri": { "day": 1, "month": "Ramazan", "year": 1447 },
+      "miladi": { "day": 19, "month": "Şubat", "year": 2026, "weekday": "Perşembe" },
+      "name": "Ramazan Ayı Başlangıcı",
+      "description": "Ramazan ayı, oruç ibadetinin farz kılındığı, Kur’an-ı Kerim’in indirilmeye başlandığı ve rahmet kapılarının sonuna kadar açıldığı mübarek aydır."
+    },
+    {
+      "hicri": { "day": 26, "month": "Ramazan", "year": 1447 },
+      "miladi": { "day": 16, "month": "Mart", "year": 2026, "weekday": "Pazartesi" },
+      "name": "Kadir Gecesi",
+      "description": "Kadir Gecesi, Kur’an-ı Kerim’in indirildiği, bin aydan daha hayırlı olduğu bildirilen en faziletli gecedir."
+    },
+    {
+      "hicri": { "day": 29, "month": "Ramazan", "year": 1447 },
+      "miladi": { "day": 19, "month": "Mart", "year": 2026, "weekday": "Perşembe" },
+      "name": "Arefe",
+      "description": "Arefe günü, bayramdan bir önceki gündür. Duaların kabulüne vesile olan, tövbe ve istiğfarla geçirilen faziletli bir gündür."
+    },
+    {
+      "hicri": { "day": 1, "month": "Şevval", "year": 1447 },
+      "miladi": { "day": 20, "month": "Mart", "year": 2026, "weekday": "Cuma" },
+      "name": "Ramazan Bayramı (1. Gün)",
+      "description": "Ramazan Bayramı, bir ay süren oruç ibadetinin ardından Müslümanların sevinç, birlik ve kardeşlik içinde kutladığı mübarek bayramdır."
+    },
+    {
+      "hicri": { "day": 2, "month": "Şevval", "year": 1447 },
+      "miladi": { "day": 21, "month": "Mart", "year": 2026, "weekday": "Cumartesi" },
+      "name": "Ramazan Bayramı (2. Gün)",
+      "description": "Ramazan Bayramı’nın ikinci günü, bayramlaşma ve akrabalık bağlarının güçlendirilmesine vesile olan bir gündür."
+    },
+    {
+      "hicri": { "day": 3, "month": "Şevval", "year": 1447 },
+      "miladi": { "day": 22, "month": "Mart", "year": 2026, "weekday": "Pazar" },
+      "name": "Ramazan Bayramı (3. Gün)",
+      "description": "Ramazan Bayramı’nın son günü, paylaşma ve kardeşlik duygularının pekiştirildiği mübarek bir gündür."
+    },
+    {
+      "hicri": { "day": 1, "month": "Zilhicce", "year": 1447 },
+      "miladi": { "day": 18, "month": "Mayıs", "year": 2026, "weekday": "Pazartesi" },
+      "name": "Zilhicce Ayı Başlangıcı",
+      "description": "Zilhicce ayı, hac ibadetinin yapıldığı ve Kurban Bayramı’nı içinde barındıran faziletli aylardan biridir."
+    },
+    {
+      "hicri": { "day": 9, "month": "Zilhicce", "year": 1447 },
+      "miladi": { "day": 26, "month": "Mayıs", "year": 2026, "weekday": "Salı" },
+      "name": "Arefe Günü",
+      "description": "Arefe günü, özellikle hacda bulunanlar için en önemli günlerden biridir. Duaların kabulüne vesile olan müstesna bir gündür."
+    },
+    {
+      "hicri": { "day": 10, "month": "Zilhicce", "year": 1447 },
+      "miladi": { "day": 27, "month": "Mayıs", "year": 2026, "weekday": "Çarşamba" },
+      "name": "Kurban Bayramı (1. Gün)",
+      "description": "Kurban Bayramı, Allah’a yakınlaşma, paylaşma ve teslimiyetin sembolü olan kurban ibadetinin yerine getirildiği mübarek bayramdır."
+    },
+    {
+      "hicri": { "day": 1, "month": "Muharrem", "year": 1448 },
+      "miladi": { "day": 16, "month": "Haziran", "year": 2026, "weekday": "Salı" },
+      "name": "Hicri Yılbaşı",
+      "description": "Hicri Yılbaşı, Hz. Peygamber’in Mekke’den Medine’ye hicretini esas alan İslam takviminin başlangıcıdır."
+    },
+    {
+      "hicri": { "day": 10, "month": "Muharrem", "year": 1448 },
+      "miladi": { "day": 25, "month": "Haziran", "year": 2026, "weekday": "Perşembe" },
+      "name": "Aşure Günü",
+      "description": "Aşure Günü, tarih boyunca birçok önemli olayın gerçekleştiğine inanılan; sabır, şükür ve paylaşmanın sembolü olan mübarek bir gündür."
+    },
+    {
+      "hicri": { "day": 11, "month": "Rebiülevvel", "year": 1448 },
+      "miladi": { "day": 24, "month": "Ağustos", "year": 2026, "weekday": "Pazartesi" },
+      "name": "Mevlid Kandili",
+      "description": "Mevlid Kandili, Peygamber Efendimiz Hz. Muhammed’in (s.a.v.) dünyaya teşrif ettiği mübarek gecedir."
+    },
+    {
+      "hicri": { "day": 1, "month": "Receb", "year": 1448 },
+      "miladi": { "day": 10, "month": "Aralık", "year": 2026, "weekday": "Perşembe" },
+      "name": "Üç Ayların Başlangıcı ve Regaib Kandili",
+      "description": "Üç ayların başlangıcı olan Receb ayının ilk gecesi Regaib Kandili’dir. Bu gece, rahmet ve bereketin bol olduğu müstesna gecelerden biridir."
+    }
+  ]
+}
